@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GeoJson</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+    <string name="geojson_url">https://waadsu.com/api/russia.geo.json</string>
+</resources>
